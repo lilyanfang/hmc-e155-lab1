@@ -1,0 +1,276 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+Z2 !s12c _opt2
+R1
+R0
+R1
+Z3 !s12c _opt1
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R2
+R1
+R3
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 dC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1
+T_opt
+!i145 1
+!i144 0
+!s110 1788769943
+V97j1;7Pg4G5LN[1=Q@HO00
+04 21 4 work lab1_switch7testbench fast 0
+=1-546ceb15b4c2-6a9e7697-77-e40
+R1
+Z5 !s12f OEM25U2 
+Z6 !s12b OEM100
+Z7 !s124 OEM100
+Z8 !s135 nogc
+Z9 o-quiet -auto_acc_if_foreign -work work +acc -L iCE40UP
+Z10 tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+Z11 OL;O;2025.2;82
+T_opt1
+!i145 1
+!i144 0
+!s110 1788737926
+VzBkXCjBalT@BKY;f5fz=g3
+04 17 4 work lab1_toptestbench fast 0
+=7-546ceb15b4c2-6a9df986-20c-2f68
+R1
+!s12f OEM25U4 
+R6
+R7
+R8
+R9
+R10
+n@_opt1
+R11
+R4
+T_opt2
+!i145 1
+!i144 0
+!s110 1788769746
+VjaoJYoa>YhY>HzR:RDc>l0
+04 21 4 work lab1_countertestbench fast 0
+=1-546ceb15b4c2-6a9e75d2-1f1-3b50
+R1
+R5
+R6
+R7
+R8
+R9
+R10
+n@_opt2
+R11
+R4
+vlab1_counter
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_counter.sv
+Z12 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+!s110 1788769709
+!i10b 1
+!s100 =mCP]>KW?W`[^IR9UngFl3
+Igi;o9NHYRTF?loQ<;>:WX1
+S1
+R4
+w1788767255
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_counter.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_counter.sv
+!i122 98
+L0 8 13
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+Z14 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z15 !s108 1788769708.000000
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_counter.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_counter.sv|
+!i113 0
+Z16 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z17 tCvgOpt 0 defaultOptions 1085333592
+vlab1_countertestbench
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_countertestbench.sv
+R12
+Z18 !s110 1788769708
+!i10b 1
+!s100 RI_Y?g[]R35MaFWFIUB3b3
+IzdXQML1<i5MJ_D16bEJ;P1
+S1
+R4
+w1788769652
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_countertestbench.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_countertestbench.sv
+!i122 97
+L0 5 30
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_countertestbench.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_countertestbench.sv|
+!i113 0
+R16
+R17
+vlab1_lka
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_lka.sv
+R12
+R18
+!i10b 1
+!s100 @;mWTKl2V8K5T=LK;97o>3
+IMU[h5aUBJAe6^oKNl4W;M2
+S1
+R4
+Z19 w1788764878
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_lka.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_lka.sv
+!i122 96
+L0 10 22
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_lka.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_lka.sv|
+!i113 0
+R16
+R17
+vlab1_switch7
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7.sv
+R12
+R18
+!i10b 1
+!s100 j<[RALYha4SMF6XM>oB1<1
+I59m16Yd[EM_BzP<OdLn8D1
+S1
+R4
+w1788768195
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7.sv
+!i122 95
+L0 8 32
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7.sv|
+!i113 0
+R16
+R17
+vlab1_switch7testbench
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7testbench.sv
+R12
+R18
+!i10b 1
+!s100 b:1=doCWQC6ef@:O9S_Yk3
+I8U6LGRndaV]Uf<FROc`T_0
+S1
+R4
+w1788769530
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7testbench.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7testbench.sv
+!i122 94
+L0 6 167
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7testbench.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_switch7testbench.sv|
+!i113 0
+R16
+R17
+vlab1_toptestbench
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_toptestbench.sv
+R12
+R18
+!i10b 1
+!s100 E827:AQI<2>V7i_<o0lW72
+IU1PaC1Rh70kJbA?WTCh8h2
+S1
+R4
+R19
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_toptestbench.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_toptestbench.sv
+!i122 93
+L0 7 68
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_toptestbench.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1_toptestbench.sv|
+!i113 0
+R16
+R17
+vled_blink_2hz
+2C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1LLM.sv
+R12
+R18
+!i10b 1
+!s100 d80Fcg41G^PReQ^VnK3e]3
+IAU<MECbaaAgb64ZWGJUR]1
+S1
+R4
+w1788764970
+8C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1LLM.sv
+FC:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1LLM.sv
+!i122 92
+L0 5 29
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1LLM.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/lanfang/OneDrive - Harvey Mudd College/Lab1/Lab1/source/impl_1/lab1LLM.sv|
+!i113 0
+R16
+R17
