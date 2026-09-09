@@ -9,7 +9,7 @@ module lab1_counter #(parameter WIDTH=31, parameter MAX=2500000, parameter HALFM
 				    output logic led2);
 	logic [WIDTH:0] counter;
 	always_ff @(posedge clk, negedge reset) begin //negedge of reset and ~reset added after testbench to account for button being high when not pushed
-		if(~reset) begin counter<=0; led2<=0; end //if reset is on set the counter to 0 and turn the LED off
+		if(~reset) begin counter<=0; led2<=0; end //if reset is on (which means it is low b/c it is a push button) set the counter to 0 and turn the LED off
 		else if(enable) begin
 			counter <= counter+1; //if enable is on add 1 to the counter at every clock tick
 			if(counter==MAX) begin counter<=0; led2<=0; end //if the counter is above the max set it back to zero & turn the LED off
